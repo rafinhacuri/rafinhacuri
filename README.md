@@ -24,6 +24,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-tailwindCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Rafa-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rafa-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
+
    <img align="right" alt="Rafa-gif" height="160" width="200" src="https://cdn.discordapp.com/attachments/1094790246983544962/1168584737036709979/gif_github.gif?ex=65524c58&is=653fd758&hm=156d6c4b35816664cfdc2ed22d323719894c359081c54959402d6506eaaa7fec&">
 </div>
   
