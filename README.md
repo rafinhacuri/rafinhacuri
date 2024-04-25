@@ -6,7 +6,7 @@
 - 🌱 Estou estudando Typescript
 - 🧑‍💼 Atualmente estagiando no CBPF (Centro Brasileiro de Pesquisas Físicas)
 - 👨‍💻 Eu programo coisas com Vue e Nuxt
-- ✉️ Meu email é: rafinhacurig@gmail.com
+- ✉️ Meu email é: rafael@curi.dev.br
 
   ##
 
