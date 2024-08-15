@@ -2,10 +2,10 @@
 <img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://cdn.discordapp.com/attachments/1094790246983544962/1168589832570814625/gi2_github.gif?ex=65525117&is=653fdc17&hm=dc021b0964b7ed576b29e411fbce93b3a9bfe407ec92c269c5658ecd954be657&" />
 
 
-- 🔭 Sou um programador novato full-stack
-- 🌱 Estou estudando Typescript
+- 🔭 Sou um programador junior full-stack
+- 🌱 Estou estudando Node.js
 - 🧑‍💼 Atualmente estagiando no CBPF (Centro Brasileiro de Pesquisas Físicas)
-- 👨‍💻 Eu programo coisas com Vue e Nuxt
+- 👨‍💻 Eu programo coisas com Nuxt
 - ✉️ Meu email é: rafael@curi.dev.br
 
   ##
