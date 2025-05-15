@@ -1,5 +1,5 @@
 ### HII! I am Rafael Curi👋
-<img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://cdn.discordapp.com/attachments/1094790246983544962/1168589832570814625/gi2_github.gif?ex=65525117&is=653fdc17&hm=dc021b0964b7ed576b29e411fbce93b3a9bfe407ec92c269c5658ecd954be657&" />
+<img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://media1.tenor.com/m/lDoAH0dehbIAAAAC/cat-mouse.gif" />
 
 
 👨‍💻 I am a full-stack web developer with experience in Node.js, Vue.js, LDAP, MongoDB, ESLint, Nuxt.js, TypeScript, Tailwind CSS, Linux, and nginx. 
@@ -35,6 +35,7 @@
   <img align="center" alt="Rafa-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Rafa-pnpm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg">
   <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-bas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 </div>
   
   ##
