@@ -1,12 +1,14 @@
-### Olá! eu sou o Rafael Curi👋
+### HII! I am Rafael Curi👋
 <img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://cdn.discordapp.com/attachments/1094790246983544962/1168589832570814625/gi2_github.gif?ex=65525117&is=653fdc17&hm=dc021b0964b7ed576b29e411fbce93b3a9bfe407ec92c269c5658ecd954be657&" />
 
 
-- 🔭 Sou um programador junior full-stack
-- 🌱 Estou estudando Node.js
-- 🧑‍💼 Atualmente estagiando no CBPF (Centro Brasileiro de Pesquisas Físicas)
-- 👨‍💻 Eu programo coisas com Nuxt
-- ✉️ Meu email é: rafael@curi.dev.br
+👨‍💻 I am a full-stack web developer with experience in Node.js, Vue.js, LDAP, MongoDB, ESLint, Nuxt.js, TypeScript, Tailwind CSS, Linux, and nginx. 
+
+📕 I am currently expanding my expertise into Linux server management, gaining advanced knowledge in system administration and web infrastructure. 
+
+🫡 My goal is to build robust and secure solutions by combining scalable application development with efficient management of production environments. 
+
+🛫 I am always seeking to enhance my technical skills and to contribute to challenging projects that demand high performance, innovation, and reliability.
 
   ##
 
@@ -25,6 +27,14 @@
   <img align="center" alt="Rafa-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center" alt="Rafa-mongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
+  <img align="center" alt="Rafa-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+  <img align="center" alt="Rafa-nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Rafa-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Rafa-pnpm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg">
+  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
