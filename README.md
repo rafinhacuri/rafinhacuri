@@ -1,5 +1,5 @@
 ### HII! I am Rafael Curi👋
-<img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://media1.tenor.com/m/lDoAH0dehbIAAAAC/cat-mouse.gif" />
+<img style="heigth: 150px; width: 150px"  alt="Cat Dev gif" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
 
 👨‍💻 I am a full-stack web developer with experience in Node.js, Vue.js, LDAP, MongoDB, ESLint, Nuxt.js, TypeScript, Tailwind CSS, Linux, and nginx. 
