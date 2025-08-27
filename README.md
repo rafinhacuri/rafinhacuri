@@ -18,7 +18,7 @@
 ## ⚡ GitHub Highlights  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhacuri&show_icons=true&theme=dracula&count_private=true"/>
+  ![Snake animation](https://github.com/rafinhacuri/rafinhacuri/blob/output/github-contribution-grid-snake.svg)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula"/>
 </p>
 
