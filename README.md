@@ -1,4 +1,4 @@
-# 👋 Hii! I’m Rafael Curi  
+**# 👋 Hii! I’m Rafael Curi  
 
 <p align="center">
   <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200px" alt="Coding Cat"/>
@@ -75,3 +75,4 @@
 <p align="center">
   🚀 *"Code. Deploy. Scale. Repeat."*  
 </p>
+**
