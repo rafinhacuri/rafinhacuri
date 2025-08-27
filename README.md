@@ -1,11 +1,5 @@
-<!-- ===== Hero Banner (roxo → azul turquesa) ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<!-- ===== Venom Divider com Título ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=🚀%20Welcome%20to%20my%20World%20&fontSize=30&fontColor=ffffff&fontAlign=50"/>
 </p>
 
 ---
@@ -65,12 +59,6 @@
   </a> 
 </div>
 
-<!-- ===== Venom Footer ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlign=50"/>
-</p>
-
-<!-- ===== Footer wave ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=100&section=footer"/>
 </p>
