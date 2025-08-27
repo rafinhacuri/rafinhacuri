@@ -1,6 +1,6 @@
-<!-- ===== Hero Banner (estável) ===== -->
+<!-- ===== Hero Banner (roxo → azul turquesa) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafael%20Curi%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=Rafael%20Curi%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
 <h1 align="center">👋 Hii! I’m Rafael Curi</h1>
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Languages I use (public repos)
+## 📊 Languages
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula" alt="Top Languages"/>
 </p>
@@ -28,7 +28,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-<!-- Mantida exatamente como você pediu -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -66,7 +65,7 @@
   </a> 
 </div>
 
-<!-- ===== Footer wave ===== -->
+<!-- ===== Footer wave (mesma cor do header) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=100&section=footer"/>
 </p>
