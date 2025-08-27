@@ -1,4 +1,4 @@
-**# 👋 Hii! I’m Rafael Curi  
+# 👋 Hii! I’m Rafael Curi  
 
 <p align="center">
   <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200px" alt="Coding Cat"/>
@@ -7,56 +7,50 @@
 ---
 
 ## 💡 About Me  
-- 👨‍💻 **Full-Stack Developer** specialized in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
-- 🗄️ Experienced with **LDAP, MongoDB, Linux, Nginx, ESLint**  
-- 📕 Currently leveling up my **Linux server administration & web infrastructure** skills  
-- 🫡 Passionate about building **robust, scalable and secure** applications  
-- 🛫 Always seeking **innovation, high performance & reliability**  
+- 👨‍💻 Full-Stack Developer with strong experience in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
+- 🗄️ Skilled in **LDAP, MongoDB, Linux, Nginx, ESLint**  
+- 📕 Currently diving deeper into **Linux server administration & production infrastructure**  
+- 🫡 Passionate about **secure, scalable & high-performance** applications  
+- 🛫 Always aiming to contribute to **innovative & challenging projects**  
 
 ---
 
 ## ⚡ GitHub Highlights  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhacuri&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=radical"/>
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafinhacuri&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhacuri&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=fff)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)  
-![nginx](https://img.shields.io/badge/-nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=fff)  
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Rafa-nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-tailwindCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Rafa-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rafa-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Rafa-mongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
+  <img align="center" alt="Rafa-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+  <img align="center" alt="Rafa-nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Rafa-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Rafa-pnpm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg">
+  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-bas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 </div>
 
 ---
 
-## 📈 Fun GitHub Metrics  
-
-- 🔥 Longest Streak: **X days in a row**  
-- 🏆 Contributions this year: **XXXX+**  
-- 📂 Public repos: **X**  
-- ⭐ Coolest project: **[Project Name](#)**  
-
----
-
-## 🌍 Where to Find Me  
+## 🌍 Connect with Me  
 
 <div align="center"> 
   <a href="https://www.instagram.com/rafinha_curi/" target="_blank">
@@ -69,10 +63,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
-
----
-
-<p align="center">
-  🚀 *"Code. Deploy. Scale. Repeat."*  
-</p>
-**
