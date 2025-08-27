@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontAlign=20" alt="Rafael Curi Banner"/>
+</p>
+
 
 ## 💡 About Me  
 - 👨‍💻 Full-Stack Developer with strong experience in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
