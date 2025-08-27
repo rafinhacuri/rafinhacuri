@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat"/>
-</p>
-
----
 
 ## 💡 About Me  
 - 👨‍💻 Full-Stack Developer with strong experience in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
@@ -23,6 +18,7 @@
   <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat" style="margin-right: 20px;" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula" alt="Top Languages"/>
 </div>
+
 ---
 
 ## 🛠️ Tech Stack  
