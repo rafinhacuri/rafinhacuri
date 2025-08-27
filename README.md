@@ -19,10 +19,10 @@
 ---
 
 ## 📊 Languages
-<p align="center">
+<div align="center">
+  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat" style="margin-right: 20px;" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula" alt="Top Languages"/>
-</p>
-
+</div>
 ---
 
 ## 🛠️ Tech Stack  
