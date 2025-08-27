@@ -1,6 +1,6 @@
 <!-- ===== Hero Banner (roxo → azul turquesa) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=Rafael%20Curi%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
 <h1 align="center">👋 Hii! I’m Rafael Curi</h1>
