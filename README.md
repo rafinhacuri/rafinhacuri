@@ -1,4 +1,3 @@
-<!-- ===== Hero Banner (roxo → azul turquesa) ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
@@ -63,7 +62,7 @@
   </a> 
 </div>
 
-<!-- ===== Footer wave (mesma cor do header) ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=100&section=footer"/>
 </p>
+**
