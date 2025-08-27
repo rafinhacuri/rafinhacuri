@@ -17,10 +17,13 @@
 
 ## ⚡ GitHub Highlights  
 
+<!-- Snake Animation -->
+![Snake animation](https://github.com/rafinhacuri/rafinhacuri/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
-  ![Snake animation](https://github.com/rafinhacuri/rafinhacuri/blob/output/github-contribution-grid-snake.svg)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&langs_count=10&theme=dracula"/>
 </p>
+
 
 ---
 
