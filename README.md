@@ -1,35 +1,22 @@
-<!-- ===== Hero Banner (SVG com gradiente) ===== -->
+<!-- ===== Hero Banner (estável) ===== -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Rafael%20Curi%20%7C%20Full-Stack%20%26%20Infra%20🧰&width=1200&height=250" alt="Rafael Curi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafael%20Curi%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
 <h1 align="center">👋 Hii! I’m Rafael Curi</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="160" alt="Coding Cat"/>
+  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat"/>
 </p>
 
-<!-- ===== Wave separator ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=90&section=header"/>
+---
 
-## 🔎 What I do
-- 👨‍💻 Full-Stack: **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
-- 🗄️ Infra/Back: **LDAP, MongoDB, Linux, Nginx, ESLint**  
-- 🧭 Focus: **Linux server administration** & **production web infrastructure**  
-- 🎯 Goal: ship **secure, scalable, high-performance** systems
-
-<!-- ===== Subtle cards area ===== -->
-<p align="center">
-  <a href="https://gitlab.com/" target="_blank">
-    <img alt="I use GitLab a lot" src="https://img.shields.io/badge/Active%20on-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:rafinhacurig@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Contact-Email-EE4C2C?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-</p>
+## 💡 About Me  
+- 👨‍💻 Full-Stack Developer with strong experience in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
+- 🗄️ Skilled in **LDAP, MongoDB, Linux, Nginx, ESLint**  
+- 📕 Currently diving deeper into **Linux server administration & production infrastructure**  
+- 🫡 Passionate about **secure, scalable & high-performance** applications  
+- 🛫 Always aiming to contribute to **innovative & challenging projects**  
 
 ---
 
@@ -40,8 +27,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-<!-- Mantido exatamente como você pediu -->
+## 🛠️ Tech Stack  
+<!-- Mantida exatamente como você pediu -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -66,17 +53,8 @@
 
 ---
 
-## 🧩 Toolbox & Interests
-- API design bem feito (REST/JSON), autenticação, **middleware** e **rate-limit**  
-- **Nuxt/Vue** com **Tailwind** lindo e acessível  
-- **Nginx** como edge, cache/headers, hardening e TLS com **OCSP Stapling**  
-- **Linux** de verdade: systemd, journald, firewall, logs e observabilidade  
-- **MongoDB** com boas práticas de índices e schema evolution
-
----
-
-## 🌐 Connect with me
-<p align="center">
+## 🌍 Connect with Me  
+<div align="center"> 
   <a href="https://www.instagram.com/rafinha_curi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -85,8 +63,10 @@
   </a>
   <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+  </a> 
+</div>
 
 <!-- ===== Footer wave ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=90&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave"/>
+</p>
