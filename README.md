@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Rafael Curi Banner"/>
 </p>
 
-<h1 align="center">👋 Hii! I’m Rafael Curi</h1>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat"/>
 </p>
