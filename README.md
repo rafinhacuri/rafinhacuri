@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontAlign=20" alt="Rafael Curi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontAlign=20" alt="Rafael Curi Banner"/>
 </p>
 
 
