@@ -58,7 +58,7 @@
   <a href="https://www.instagram.com/rafinha_curi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rafinhacurig@gmail.com">
+  <a href="mailto:rafael@curi.dev.br">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/" target="_blank">
