@@ -5,11 +5,17 @@
 ---
 
 ## 💡 About Me  
-- 👨‍💻 Full-Stack Developer with strong experience in **Node.js, Vue.js, Nuxt.js, TypeScript, Tailwind CSS**  
-- 🗄️ Skilled in **LDAP, MongoDB, Linux, Nginx, ESLint**  
-- 📕 Currently diving deeper into **Linux server administration & production infrastructure**  
-- 🫡 Passionate about **secure, scalable & high-performance** applications  
-- 🛫 Always aiming to contribute to **innovative & challenging projects**  
+- 👨‍💻 Full Stack Developer with solid experience in Vue/Nuxt, Node.js, Golang, TypeScript, MongoDB, and Tailwind CSS, building performant and scalable web applications.
+
+- ⚙️ Skilled in Linux server administration, Nginx configuration, and LDAP integration, bridging application development with infrastructure for secure and reliable deployments.
+
+- 🚀 Passionate about creating robust, high-performance solutions that combine clean architecture, scalability, and security to deliver real business impact.
+
+- 📚 Continuously learning and improving, with a focus on system optimization, backend scalability, and modern web frameworks.
+
+- 🔐 Currently deepening my studies in OAuth2 and modern authentication/authorization protocols, aiming to implement secure, scalable solutions integrated across corporate and cloud environments.
+
+- 🌐 Open to collaborating on challenging projects that demand innovation, performance, and reliability.
 
 ---
 
