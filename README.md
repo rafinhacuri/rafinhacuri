@@ -13,8 +13,6 @@
 
 - 📚 Continuously learning and improving, with a focus on system optimization, backend scalability, and modern web frameworks.
 
-- 🔐 Currently deepening my studies in OAuth2 and modern authentication/authorization protocols, aiming to implement secure, scalable solutions integrated across corporate and cloud environments.
-
 - 🌐 Open to collaborating on challenging projects that demand innovation, performance, and reliability.
 
 ---
