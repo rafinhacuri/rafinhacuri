@@ -1,70 +1,90 @@
+# 👋 Hi, I'm Rafael Curi
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=👋%20Hii!%20I’m%20Rafael%20Curi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=220&section=header&text=Rafael%20Curi&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=68"/>
 </p>
 
----
-
-## 💡 About Me  
-- 👨‍💻 Full Stack Developer with solid experience in Vue/Nuxt, Node.js, Golang, TypeScript, MongoDB, and Tailwind CSS, building performant and scalable web applications.
-
-- ⚙️ Skilled in Linux server administration, Nginx configuration, and LDAP integration, bridging application development with infrastructure for secure and reliable deployments.
-
-- 🚀 Passionate about creating robust, high-performance solutions that combine clean architecture, scalability, and security to deliver real business impact.
-
-- 📚 Continuously learning and improving, with a focus on system optimization, backend scalability, and modern web frameworks.
-
-- 🌐 Open to collaborating on challenging projects that demand innovation, performance, and reliability.
-
----
-
-## 📊 Languages
-<div align="center">
-  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" alt="Coding Cat" style="margin-right: 20px;" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafinhacuri&theme=dracula" alt="Top Languages"/>
-</div>
-
----
-
-## 🛠️ Tech Stack  
-<div style="display: inline-block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Rafa-nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-tailwindCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Rafa-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafa-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Rafa-mongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
-  <img align="center" alt="Rafa-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <img align="center" alt="Rafa-nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
-  <img align="center" alt="Rafa-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Rafa-pnpm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg">
-  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-  <img align="center" alt="Rafa-oauth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg">
-</div>
-
----
-
-## 🌍 Connect with Me  
-<div align="center"> 
-  <a href="https://www.instagram.com/rafinha_curi/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<p align="center">
+  <a href="https://curi.dev.br">
+    <img src="https://img.shields.io/badge/Portfolio-curi.dev.br-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:rafael@curi.dev.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-rafael@curi.dev.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-</div>
+  <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Curi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+Software Engineer and DevOps Engineer at the Brazilian Center for Physics Research (CBPF), focused on building secure, scalable, and high-performance systems.
+
+I work across the entire software lifecycle — from designing user interfaces and APIs to deploying and maintaining production infrastructure.
+
+### What I do:
+
+- ⚡ Build modern applications using Nuxt, Vue, TypeScript, and Go
+- 🏗️ Design scalable backend architectures with MongoDB, PostgreSQL, and Redis
+- 🔐 Implement authentication and identity solutions using LDAP, SSO, and RBAC
+- 🌐 Manage DNS infrastructure with PowerDNS and DNSSEC
+- 🐳 Deploy and automate services using Docker, CI/CD, Linux, and Nginx
+- 📈 Optimize systems for performance, reliability, and maintainability
+- 🎓 Computer Science student passionate about solving real-world problems through technology
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+Nuxt
+Vue
+TypeScript
+Tailwind
+
+### Backend
+Go
+Node.js
+
+### Databases & Cache
+MongoDB
+PostgreSQL
+Redis
+
+### DevOps & Infrastructure
+Docker
+Linux
+Nginx
+LDAP
+DNSSEC
+PowerDNS
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=100&section=footer"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafinhacuri&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacuri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafinhacuri&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://curi.dev.br">🌐 Portfolio</a> •
+  <a href="mailto:rafael@curi.dev.br">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rafael-curi-a4a837292/">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/rafinha_curi/">📸 Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=120&section=footer"/>
+<
