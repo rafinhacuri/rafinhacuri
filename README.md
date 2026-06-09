@@ -40,7 +40,6 @@ I work across the full software lifecycle — from frontend interfaces and backe
 
 ## 🎯 Current Focus
 
-- 🚀 Building **SanchezDNS**, a modern DNS management platform
 - 🛡️ Developing secure systems with strong access control and infrastructure automation
 - ⚙️ Improving deployment workflows, monitoring, and service reliability
 - 📚 Learning more about distributed systems, networking, cybersecurity, and backend scalability
@@ -96,10 +95,6 @@ I work across the full software lifecycle — from frontend interfaces and backe
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafinhacuri&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafinhacuri&theme=tokyonight&utcOffset=-3" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafinhacuri&theme=tokyonight" />
 </p>
 
 ---
