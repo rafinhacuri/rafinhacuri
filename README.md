@@ -31,16 +31,7 @@ At the **Brazilian Center for Physics Research (CBPF)** I work on web applicatio
 
 I like owning the whole path: the interface, the API behind it, the container it runs in and the server it lands on.
 
-```go
-var rafael = Engineer{
-    Role:     []string{"Software Engineer", "DevOps Engineer", "Full Stack Developer"},
-    Company:  "CBPF — Brazilian Center for Physics Research",
-    Location: "Rio de Janeiro, BR",
-    Studying: "B.Sc. Computer Science @ UVA",
-    Daily:    []string{"Go", "Nuxt", "TypeScript", "PowerDNS", "LDAP", "Docker"},
-    Learning: []string{"distributed systems", "networking", "security"},
-}
-```
+📍 Rio de Janeiro, BR &nbsp;·&nbsp; 🎓 B.Sc. Computer Science @ UVA &nbsp;·&nbsp; 🔭 Learning distributed systems, networking and security
 
 <!-- ───────────────────────── WHAT I DO ───────────────────────── -->
 <h3 align="center">What I do</h3>
