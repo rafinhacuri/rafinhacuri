@@ -81,20 +81,20 @@ I like owning the whole path: the interface, the API behind it, the container it
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/rafinhacuri/octane">octane</a></h4>
-      Concept landing page for a motorcycle detailing studio in Rio: a 3D bike gets washed step by step as you scroll.
+      <h4>⛏️ <a href="https://github.com/rafinhacuri/Explotools-Brasil">Explotools Brasil</a></h4>
+      Website and internal tools for a maker of wireline diamond drilling tools: public site, lead capture, a drill-bit matrix selector and an admin panel.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/rafinhacuri/curi.dev">curi.dev</a></h4>
+      My personal portfolio in English and Portuguese: projects, certificates and a 3D robot that follows you down the page.
       <br/><br/>
       <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏁 <a href="https://github.com/rafinhacuri/212racegarage">212 Race Garage</a></h4>
-      Website for a motorsport garage, built and deployed on Cloudflare.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -135,15 +135,6 @@ I like owning the whole path: the interface, the API behind it, the container it
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,pnpm,npm&perline=8"/></td>
   </tr>
 </table>
-
-<!-- ───────────────────────── NOW ───────────────────────── -->
-<h3 align="center">Right now</h3>
-
-<p align="center">
-  🎓 Defending my CS thesis on <b>SanchezDNS</b> &nbsp;&nbsp;
-  📖 Writing docs for <b>LDAP Studio</b> &nbsp;&nbsp;
-  ☁️ Shipping side projects on <b>Cloudflare</b>
-</p>
 
 <!-- ───────────────────────── STATS ───────────────────────── -->
 <h3 align="center">GitHub</h3>
