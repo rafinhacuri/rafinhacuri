@@ -23,8 +23,6 @@
 <br/>
 
 <!-- ───────────────────────── ABOUT ───────────────────────── -->
-<img align="right" width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafinhacuri&theme=tokyonight&utcOffset=-3"/>
-
 ### Hey, I'm Rafael
 
 I build the systems other systems depend on: authentication, DNS, internal platforms and the pipelines that ship them.
@@ -32,8 +30,6 @@ I build the systems other systems depend on: authentication, DNS, internal platf
 At the **Brazilian Center for Physics Research (CBPF)** I work on web applications, APIs and infrastructure for a research environment — where access control has to be right and services have to stay up.
 
 I like owning the whole path: the interface, the API behind it, the container it runs in and the server it lands on.
-
-<br clear="right"/>
 
 ```go
 var rafael = Engineer{
@@ -161,24 +157,23 @@ var rafael = Engineer{
 <!-- ───────────────────────── STATS ───────────────────────── -->
 <h3 align="center">GitHub</h3>
 
+<!-- Cards e snake gerados pelo workflow .github/workflows/profile-assets.yml -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafinhacuri&theme=tokyonight&hide_border=true&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE" height="170"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/stats-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/stats-light.svg"/>
+    <img alt="GitHub activity in the last 12 months" src="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/stats-dark.svg" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafinhacuri&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafinhacuri&theme=tokyonight" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/languages-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/languages-light.svg"/>
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/languages-dark.svg" width="100%"/>
+  </picture>
 </p>
 
-<details>
-  <summary align="center"><b>Contribution activity</b></summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafinhacuri&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=A855F7&point=FFFFFF" width="100%"/>
-</details>
-
-<br/>
-
-<!-- Snake gerada pelo workflow .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafinhacuri/rafinhacuri/output/github-snake-dark.svg"/>
