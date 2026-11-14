@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" fill="none" role="img" aria-labelledby="t d">
+<title id="t">rafinhacuri&#39;s GitHub activity</title>
+<desc id="d">281 contributions between Nov 9, 2025 and Nov 14, 2026.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .label { font-size: 11px; font-weight: 600; letter-spacing: 1.4px; fill: #59636E; }
+  .muted { fill: #59636E; }
+  .rise { animation: rise .7s cubic-bezier(.22,1,.36,1) both; }
+  .grow { transform-box: fill-box; transform-origin: 50% 100%; animation: grow .9s cubic-bezier(.22,1,.36,1) both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) scale(520 260)">
+    <stop stop-color="#0891B2" stop-opacity="0.1"/>
+    <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#0891B2"/><stop offset=".5" stop-color="#4F46E5"/><stop offset="1" stop-color="#9333EA"/>
+  </linearGradient>
+  <linearGradient id="bars" x1="32" y1="0" x2="808" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0891B2"/><stop offset=".5" stop-color="#4F46E5"/><stop offset="1" stop-color="#9333EA"/>
+  </linearGradient>
+</defs>
+<rect x=".5" y=".5" width="839" height="239" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
+<rect x=".5" y=".5" width="839" height="239" rx="14" fill="url(#glow)"/>
+<g class="rise">
+  <text x="32" y="42" class="label">CONTRIBUTIONS · LAST 12 MONTHS</text>
+  <text x="30" y="94" font-size="50" font-weight="800" letter-spacing="-1" fill="url(#accent)">281</text>
+  <text x="32" y="118" font-size="12" class="muted">Nov 9, 2025 – Nov 14, 2026</text>
+</g>
+<g class="rise" style="animation-delay:120ms">
+  <text x="372" y="76" font-size="26" font-weight="700" fill="#1F2328">153</text>
+  <circle cx="375" cy="96" r="3" fill="#22D3EE"/>
+  <text x="384" y="100" font-size="12" class="muted">Commits</text>
+</g>
+<g class="rise" style="animation-delay:190ms">
+  <text x="484" y="76" font-size="26" font-weight="700" fill="#1F2328">10</text>
+  <circle cx="487" cy="96" r="3" fill="#6366F1"/>
+  <text x="496" y="100" font-size="12" class="muted">Pull requests</text>
+</g>
+<g class="rise" style="animation-delay:260ms">
+  <text x="596" y="76" font-size="26" font-weight="700" fill="#1F2328">57</text>
+  <circle cx="599" cy="96" r="3" fill="#A855F7"/>
+  <text x="608" y="100" font-size="12" class="muted">Active days</text>
+</g>
+<g class="rise" style="animation-delay:330ms">
+  <text x="708" y="76" font-size="26" font-weight="700" fill="#1F2328">13</text>
+  <circle cx="711" cy="96" r="3" fill="#F472B6"/>
+  <text x="720" y="100" font-size="12" class="muted">Public repos</text>
+</g>
+<line x1="32" y1="196.5" x2="808" y2="196.5" stroke="#D0D7DE" stroke-dasharray="2 4"/>
+<rect class="grow" style="animation-delay:200ms" x="34" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Nov 9, 2025: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:212ms" x="48.6" y="178.5" width="10.6" height="17.5" rx="2" fill="url(#bars)"><title>Week of Nov 16, 2025: 2 contributions</title></rect>
+<rect class="grow" style="animation-delay:224ms" x="63.3" y="153.7" width="10.6" height="42.3" rx="2" fill="url(#bars)"><title>Week of Nov 23, 2025: 20 contributions</title></rect>
+<rect class="grow" style="animation-delay:236ms" x="77.9" y="139.3" width="10.6" height="56.7" rx="2" fill="url(#bars)"><title>Week of Nov 30, 2025: 39 contributions</title></rect>
+<rect class="grow" style="animation-delay:248ms" x="92.6" y="138" width="10.6" height="58" rx="2" fill="url(#bars)"><title>Week of Dec 7, 2025: 41 contributions</title></rect>
+<rect class="grow" style="animation-delay:260ms" x="107.2" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Dec 14, 2025: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:272ms" x="121.8" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Dec 21, 2025: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:284ms" x="136.5" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Dec 28, 2025: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:296ms" x="151.1" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jan 4, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:308ms" x="165.8" y="181.9" width="10.6" height="14.1" rx="2" fill="url(#bars)"><title>Week of Jan 11, 2026: 1 contribution</title></rect>
+<rect class="grow" style="animation-delay:320ms" x="180.4" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jan 18, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:332ms" x="195.1" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jan 25, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:344ms" x="209.7" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Feb 1, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:356ms" x="224.3" y="181.9" width="10.6" height="14.1" rx="2" fill="url(#bars)"><title>Week of Feb 8, 2026: 1 contribution</title></rect>
+<rect class="grow" style="animation-delay:368ms" x="239" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Feb 15, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:380ms" x="253.6" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Feb 22, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:392ms" x="268.3" y="181.9" width="10.6" height="14.1" rx="2" fill="url(#bars)"><title>Week of Mar 1, 2026: 1 contribution</title></rect>
+<rect class="grow" style="animation-delay:404ms" x="282.9" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Mar 8, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:416ms" x="297.5" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Mar 15, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:428ms" x="312.2" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Mar 22, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:440ms" x="326.8" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Mar 29, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:452ms" x="341.5" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Apr 5, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:464ms" x="356.1" y="165.6" width="10.6" height="30.4" rx="2" fill="url(#bars)"><title>Week of Apr 12, 2026: 9 contributions</title></rect>
+<rect class="grow" style="animation-delay:476ms" x="370.8" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Apr 19, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:488ms" x="385.4" y="178.5" width="10.6" height="17.5" rx="2" fill="url(#bars)"><title>Week of Apr 26, 2026: 2 contributions</title></rect>
+<rect class="grow" style="animation-delay:500ms" x="400" y="171.8" width="10.6" height="24.2" rx="2" fill="url(#bars)"><title>Week of May 3, 2026: 5 contributions</title></rect>
+<rect class="grow" style="animation-delay:512ms" x="414.7" y="168.5" width="10.6" height="27.5" rx="2" fill="url(#bars)"><title>Week of May 10, 2026: 7 contributions</title></rect>
+<rect class="grow" style="animation-delay:524ms" x="429.3" y="175.9" width="10.6" height="20.1" rx="2" fill="url(#bars)"><title>Week of May 17, 2026: 3 contributions</title></rect>
+<rect class="grow" style="animation-delay:536ms" x="444" y="152.8" width="10.6" height="43.2" rx="2" fill="url(#bars)"><title>Week of May 24, 2026: 21 contributions</title></rect>
+<rect class="grow" style="animation-delay:548ms" x="458.6" y="164.3" width="10.6" height="31.7" rx="2" fill="url(#bars)"><title>Week of May 31, 2026: 10 contributions</title></rect>
+<rect class="grow" style="animation-delay:560ms" x="473.2" y="150.2" width="10.6" height="45.8" rx="2" fill="url(#bars)"><title>Week of Jun 7, 2026: 24 contributions</title></rect>
+<rect class="grow" style="animation-delay:572ms" x="487.9" y="173.8" width="10.6" height="22.2" rx="2" fill="url(#bars)"><title>Week of Jun 14, 2026: 4 contributions</title></rect>
+<rect class="grow" style="animation-delay:584ms" x="502.5" y="178.5" width="10.6" height="17.5" rx="2" fill="url(#bars)"><title>Week of Jun 21, 2026: 2 contributions</title></rect>
+<rect class="grow" style="animation-delay:596ms" x="517.2" y="165.6" width="10.6" height="30.4" rx="2" fill="url(#bars)"><title>Week of Jun 28, 2026: 9 contributions</title></rect>
+<rect class="grow" style="animation-delay:608ms" x="531.8" y="168.5" width="10.6" height="27.5" rx="2" fill="url(#bars)"><title>Week of Jul 5, 2026: 7 contributions</title></rect>
+<rect class="grow" style="animation-delay:620ms" x="546.5" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jul 12, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:632ms" x="561.1" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jul 19, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:644ms" x="575.7" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Jul 26, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:656ms" x="590.4" y="178.5" width="10.6" height="17.5" rx="2" fill="url(#bars)"><title>Week of Aug 2, 2026: 2 contributions</title></rect>
+<rect class="grow" style="animation-delay:668ms" x="605" y="173.8" width="10.6" height="22.2" rx="2" fill="url(#bars)"><title>Week of Aug 9, 2026: 4 contributions</title></rect>
+<rect class="grow" style="animation-delay:680ms" x="619.7" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Aug 16, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:692ms" x="634.3" y="181.9" width="10.6" height="14.1" rx="2" fill="url(#bars)"><title>Week of Aug 23, 2026: 1 contribution</title></rect>
+<rect class="grow" style="animation-delay:704ms" x="648.9" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Aug 30, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:716ms" x="663.6" y="175.9" width="10.6" height="20.1" rx="2" fill="url(#bars)"><title>Week of Sep 6, 2026: 3 contributions</title></rect>
+<rect class="grow" style="animation-delay:728ms" x="678.2" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Sep 13, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:740ms" x="692.9" y="193" width="10.6" height="3" rx="2" fill="#EAEEF2"><title>Week of Sep 20, 2026: 0 contributions</title></rect>
+<rect class="grow" style="animation-delay:752ms" x="707.5" y="153.7" width="10.6" height="42.3" rx="2" fill="url(#bars)"><title>Week of Sep 27, 2026: 20 contributions</title></rect>
+<rect class="grow" style="animation-delay:764ms" x="722.2" y="168.5" width="10.6" height="27.5" rx="2" fill="url(#bars)"><title>Week of Oct 4, 2026: 7 contributions</title></rect>
+<rect class="grow" style="animation-delay:776ms" x="736.8" y="165.6" width="10.6" height="30.4" rx="2" fill="url(#bars)"><title>Week of Oct 11, 2026: 9 contributions</title></rect>
+<rect class="grow" style="animation-delay:788ms" x="751.4" y="160.7" width="10.6" height="35.3" rx="2" fill="url(#bars)"><title>Week of Oct 18, 2026: 13 contributions</title></rect>
+<rect class="grow" style="animation-delay:800ms" x="766.1" y="173.8" width="10.6" height="22.2" rx="2" fill="url(#bars)"><title>Week of Oct 25, 2026: 4 contributions</title></rect>
+<rect class="grow" style="animation-delay:812ms" x="780.7" y="170.1" width="10.6" height="25.9" rx="2" fill="url(#bars)"><title>Week of Nov 1, 2026: 6 contributions</title></rect>
+<rect class="grow" style="animation-delay:824ms" x="795.4" y="173.8" width="10.6" height="22.2" rx="2" fill="url(#bars)"><title>Week of Nov 8, 2026: 4 contributions</title></rect>
+<text x="92.6" y="218" font-size="10" class="muted">Dec</text>
+<text x="151.1" y="218" font-size="10" class="muted">Jan</text>
+<text x="209.7" y="218" font-size="10" class="muted">Feb</text>
+<text x="268.3" y="218" font-size="10" class="muted">Mar</text>
+<text x="341.5" y="218" font-size="10" class="muted">Apr</text>
+<text x="400" y="218" font-size="10" class="muted">May</text>
+<text x="473.2" y="218" font-size="10" class="muted">Jun</text>
+<text x="531.8" y="218" font-size="10" class="muted">Jul</text>
+<text x="590.4" y="218" font-size="10" class="muted">Aug</text>
+<text x="663.6" y="218" font-size="10" class="muted">Sep</text>
+<text x="722.2" y="218" font-size="10" class="muted">Oct</text>
+<text x="780.7" y="218" font-size="10" class="muted">Nov</text>
+</svg>
